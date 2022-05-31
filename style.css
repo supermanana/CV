@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(190, 221, 216);
+    margin: 120px; /*Margins sur les quatres côtés*/
+    line-height:34px ;
+    font-size:large;
+}
+
+header{
+    text-align : center;
+}
+div{
+    text-align : center;
+}
